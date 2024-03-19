@@ -114,7 +114,13 @@ These are the variables:
 
 ## Organization
 
-*(Explain how the project is organized, including the file structure and any naming conventions)*
+ Organize a Project GitHub project board with main tasks
+ Create a repository including a Readme.md
+ Data Preparation
+ Modeling
+ Tuning
+ Tableau
+ Canva for presentation
 
 ## Links
 

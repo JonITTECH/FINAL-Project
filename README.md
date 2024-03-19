@@ -1,3 +1,5 @@
+![IronHack Logo](IronHackimage.png "IronHack Logo")
+
 # Ironhack Final Project: Why do people leave their job?
 
 

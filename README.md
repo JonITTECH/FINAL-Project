@@ -37,7 +37,7 @@ Once we have identified interesting relationships related to gender, marital sta
 
 
 
-## Dataset
+### Dataset
 
 The dataset comes from a study conducted by IBM for its employees in the United States. It has a total of 1470 employees and 35 variables analyzed.
 
@@ -86,7 +86,31 @@ These are the variables:
 
 ## Project Workflow
 
-*(Detailed explanation of your workflow goes here)*
+#### 2.1 EDA
+
+#### 2.2 Data Wrangling
+
+- Explore Data
+- Clean Data
+- Remove useless columns
+- Plots
+- Group Data
+- Data Splitting
+
+#### 2.3 Feature Selection
+
+- Feature importance
+
+### Train Models (ML)
+
+- Logistic Regression
+  - Also tried: Decision Trees, Random Forest, Support Vector Machines (SVM), Neural Networks
+
+## Next steps
+- Finding a dataset with valid and reliable surveys covering a larger number of employees.
+- Finding a dataset that also includes the impact of teleworking on 'Attrition'.
+- That the dataset consists of employees residing in Spain.
+- That there is a greater difference in the sector of the companies where the employees work.
 
 ## Organization
 

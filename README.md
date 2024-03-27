@@ -121,7 +121,8 @@ These are the variables:
  Tuning  
  Tableau  
  Canva for presentation  
+ Streamlit website with prediction model
 
 ## Links
 
-*(Include any relevant links, such as datasets, articles, or related projects)*
+https://public.tableau.com/views/FINALPROJECT_17104369152550/JobRoleEmployeenumber?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link

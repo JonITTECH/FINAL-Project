@@ -125,4 +125,5 @@ These are the variables:
 
 ## Links
 
-https://public.tableau.com/views/FINALPROJECT_17104369152550/JobRoleEmployeenumber?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
+Canva: https://www.canva.com/design/DAF__SQyVhY/Rf9eM7lXGewZiVmWOh6ZiA/edit?utm_content=DAF__SQyVhY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+Tableau: https://public.tableau.com/views/FINALPROJECT_17104369152550/JobRoleEmployeenumber?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link

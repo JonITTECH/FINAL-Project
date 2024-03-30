@@ -129,4 +129,4 @@ Canva: https://www.canva.com/design/DAF__SQyVhY/Rf9eM7lXGewZiVmWOh6ZiA/edit?utm_
 
 Tableau: https://public.tableau.com/views/FINALPROJECT_17104369152550/JobRoleEmployeenumber?:language=es-ES&publish=yes&:sid=&:display_count=n&:origin=viz_share_link
 
-Website: through Tableau Dashboard
+Website (Streamlit): through Tableau Dashboard
